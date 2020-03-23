@@ -1,2 +1,3 @@
-# day-one-lab-twoI am flying with git
- Flying high like a eagle
+# day-one-lab-two
+I am flying with git
+Flying high like a eagle
