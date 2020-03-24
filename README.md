@@ -22,3 +22,5 @@ console.log(x + 4);
 
 Name | Pet Type | Favorte Food
 ---|---|---
+Ru | Dog | Peanut Butter
+Kira | Dog | Pancakes
